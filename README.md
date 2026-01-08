@@ -1,4 +1,4 @@
-# Environmental Monitoring Dashboard – Prueba Técnica
+# Dashboard-de-Monitoreo-Ambiental
 
 ## Descripción
 
